@@ -1,16 +1,24 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**zacharyluck/zacharyluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Zach, a data scientist and aspiring programmer with a passion for software development and statistics!
 
-Here are some ideas to get you started:
+Currently Learning:
+* FastAPI
+* AWS
+* ElasticBeanstalk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I already know:
+* Python
+* JavaScript
+* Java
+* C#
+
+Frameworks:
+* Pandas
+* Flask
+* SQL
+* Postgres
+* SQLAlchemy
+
+Check out what I've made at [my portfolio!](https://zacharyluck.github.io/)
+Or send me a message on [LinkedIn](https://www.linkedin.com/in/zacharysluck/)
