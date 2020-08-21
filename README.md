@@ -21,4 +21,5 @@ Frameworks:
 * SQLAlchemy
 
 Check out what I've made at [my portfolio!](https://zacharyluck.github.io/)
+
 Or send me a message on [LinkedIn](https://www.linkedin.com/in/zacharysluck/)
